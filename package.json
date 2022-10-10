@@ -1,0 +1,18 @@
+{
+  "name": "qw115-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เว็บบาทละ100✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เว็บบาทละ100",
+"หวยรัฐบาลออนไลน์",
+"เข้าระบบ lottovip",
+"เว็บหวยฮานอยหวยลาว",
+"lottovipรวยออนไลน์"
+],
+  "repository": "https://github.com/setteebet/qw115-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
